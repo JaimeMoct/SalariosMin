@@ -10,7 +10,7 @@ Para ejecutar el proyecto, se necesita las siguientes dependencias:
 - Bibliotecas de Python: Pandas, NumPY, Matplotlib. 
 
 ## Instalación
-1.- Clonar el SalariosMex repositorio:
+1.- Clonar el `SalariosMex` repositorio:
 ```bash
 git clone https://github.com/JaimeMoct/SalariosMex.git
 ```
