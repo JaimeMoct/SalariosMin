@@ -1,4 +1,4 @@
-# Proyecto exploratorio sobre salarios de México.
+# Proyecto exploratorio sobre salarios en México.
 
 Este proyecto tiene como objetivo realizar un análisis exploratorio de datos para obtener información relevante y patrones ocultos en un conjunto de datos recopilados acerca de los salarios de México.
 A través de técnicas de visualización y estadística descriptiva, se busca comprender mejor la estructura y las característica de los datos. 
