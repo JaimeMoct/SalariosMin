@@ -5,12 +5,9 @@ A través de técnicas de visualización y estadística descriptiva, se busca co
 
 ## Requisitos 
 Para ejecutar el proyecto, se necesita las siguientes dependencias:
-
-Python 3.x
-
-Jupyter Notebook
-
-Bibliotecas de Python: Pandas, NumPY, Matplotlib. 
+- Python 3.x
+- Jupyter Notebook
+- Bibliotecas de Python: Pandas, NumPY, Matplotlib. 
 
 ## Contribuciones
 ¡¡Se les agradece las contribuciones a este proyecto!!
