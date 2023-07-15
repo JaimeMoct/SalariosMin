@@ -7,7 +7,9 @@ A través de técnicas de visualización y estadística descriptiva, se busca co
 Para ejecutar el proyecto, se necesita las siguientes dependencias:
 
 Python 3.x
+
 Jupyter Notebook
+
 Bibliotecas de Python: Pandas, NumPY, Matplotlib. 
 
 ## Contribuciones
