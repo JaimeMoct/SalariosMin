@@ -26,7 +26,7 @@ cd SalariosMex
 ¡¡Se les agradece las contribuciones a este proyecto!!
 Si tienes alguna sugerencia, duda o corrección, no dudes en abrir un "issue" o enviar una solicitud de extracción. 
 
-Para cualquier duda o aclaración, puedes contactarme [Jaime Suarez](https://github.com/JaimeMoc):
+Para cualquier duda o aclaración, puedes contactarme [Jaime Suarez](https://github.com/JaimeMoct):
 
 Email: suarezjaime4@gmail.com
 
