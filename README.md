@@ -26,5 +26,13 @@ cd SalariosMex
 ¡¡Se les agradece las contribuciones a este proyecto!!
 Si tienes alguna sugerencia, duda o corrección, no dudes en abrir un "issue" o enviar una solicitud de extracción. 
 
+Para cualquier duda o aclaración, puedes contactarme [Jaime Suarez](https://github.com/JaimeMoc):
+
+Email: suarezjaime4@gmail.com
+
+Twitter: [@Saak_jS](https://twitter.com/Saak_jS)
+
+Instagram: [@tbrboystar](https://www.instagram.com/tbrboystar/)
+
 ## Licencia
 Este proyecto se distribuye bajo la licencia MIT. Si utilizas el código o la información proporcionada en este proyecto, se agradece que se le atribuya adecuadamente.
