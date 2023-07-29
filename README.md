@@ -7,7 +7,7 @@ A través de técnicas de visualización y estadística descriptiva, se busca co
 Para ejecutar el proyecto, se necesita las siguientes dependencias:
 - Python 3.x
 - Jupyter Notebook
-- Bibliotecas de Python: Pandas, NumPY, Matplotlib. 
+- Bibliotecas de Python: Pandas, NumPY, Matplotlib, Seaborn. 
 
 ## Instalación
 1.- Clonar el repositorio `SalariosMex`:
